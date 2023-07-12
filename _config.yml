@@ -5,11 +5,11 @@
 # Site
 title: Fomalhaut🥝
 subtitle: 
-description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🥝,Fomalhaut'
-author: Fomalhaut🥝
+description: 'Future is coming 🍭🍭🍭'
+keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,spring-sunlight🥝,spring-sunlight'
+author: spring-sunlight🥝
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # abbrlink config
 abbrlink:
@@ -271,22 +271,22 @@ magnet:
   devide: 3
   display:
     - name: 算法
-      display_name: 小Fの算法学习笔记
+      display_name: 阳阳的算法学习笔记
       icon: 🍡
-    - name: 计算机基础
-      display_name: 小Fの计算机基础笔记
+    - name: golang
+      display_name: 阳阳的Golang学习笔记
       icon: 🍼
     - name: 魔改教程
-      display_name: 小Fの博客魔改教程
+      display_name: 阳阳的博客魔改教程
       icon: 🍉
-    - name: Java基础
-      display_name: 小FのJava基础笔记
+    - name: 微服务
+      display_name: 阳阳的微服务学习笔记
       icon: 🍟
     - name: 数据库
-      display_name: 小Fの数据库笔记
+      display_name: 阳阳的数据库笔记
       icon: 🍨
-    - name: 演示
-      display_name: 小Fの案例演示笔记
+    - name: kubenetes
+      display_name: 阳阳的k8s学习笔记
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色

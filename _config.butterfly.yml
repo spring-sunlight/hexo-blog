@@ -113,7 +113,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp
+  img: https://blog-1308477074.cos.ap-beijing.myqcloud.com/images/avator.jpg
   effect: false
 
 # Disable all banner image
@@ -671,9 +671,14 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to Fomalhaut🥝のTiny Home!🤣🤣🤣"
-    - "Hope you have a nice day!🍭🍭🍭"
-
+#    - "Welcome to Fomalhaut🥝のTiny Home!🤣🤣🤣"
+#    - "Hope you have a nice day!🍭🍭🍭"
+    - "每一个不曾起舞的日子都是对生命的辜负💪💪💪"
+    - "不能听命于自己者，就要受命于他人🍭🍭🍭"
+    - "谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊。"
+    - "老当益壮，宁移白首之心？穷且益坚，不坠青云之志"
+    - "酌贪泉而觉爽，处涸辙以犹欢"
+    - "北海虽赊，扶摇可接；东隅已逝，桑榆非晚"
 # Loading Animation (加載動畫)
 # preloader: false
 preloader:
