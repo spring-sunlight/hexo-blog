@@ -82,6 +82,9 @@ $.ajax({
     dataType: 'jsonp',
     success: function (res) {
         ipLoacation = res;
+        console.log(ipLoacation);
+        console.log(ipLoacation.result.location.lng);
+        console.log(ipLoacation.result.location.lat);
     }
 })
 
