@@ -10,5 +10,7 @@ abstract: 只有你和我才知道密码! #密码框提示信息
 wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试! #密码错误提示信息
 ---
 
-
+# 1.Markdown语法自带格式
+{% note info flat %}参考：[Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144){% endnote %}
+{% note warning flat %}注意：此页面偶尔会存在CSS冲突问题!{% endnote %}
 
