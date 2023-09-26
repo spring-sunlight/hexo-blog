@@ -180,6 +180,17 @@ center#name-container {
   width: max-content !important;
   left: 50% !important;
   transform: translateX(-50%) !important;
+
+  /* position: absolute;
+  width: fit-content;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 60px; */ 
+
 }
 #nav .menus_items .menus_item {
   padding: 0 0 0 8px !important;
@@ -187,7 +198,29 @@ center#name-container {
 /* 子菜单横向展示 */
 #nav .menus_items .menus_item:hover .menus_item_child {
   display: flex !important;
+ }
+
+/* #nav .menus_items .menus_item:hover .menus_item_child {
+  display: block;
+  position: absolute;
+  transform: translateX(-50%);
+  right: auto;
+  left: auto !important;
+  padding: 6px 4px;
+  box-sizing: content-box;
+  line-height: 35px;
+  justify-content: center;
+  align-items:center;
 }
+#nav .menus_items .menus_item:hover {
+  padding: 0 5px 27px 5px !important;
+  margin-bottom: -14.5px !important;
+}
+
+#nav .menus_items .menus_item .menus_item_child {
+  top: 30px;
+} */
+
 /* 这里的2是代表导航栏的第二个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(2) .menus_item_child {
   left: -95px;

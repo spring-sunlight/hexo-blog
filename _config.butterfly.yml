@@ -8,26 +8,39 @@ menu:
     归档: /archives/ || icon-guidang1 || faa-tada
     标签: /tags/ || icon-sekuaibiaoqian || faa-tada
     分类: /categories/ || icon-fenlei || faa-tada
-  休闲 || icon-pinweishenghuo || faa-tada || hide:
-    八音盒: /life/music/ ||icon-yinle || faa-tada
-    影院: /life/movies/ ||icon-dianying1 || faa-tada
-    游戏: /life/games/ || icon-youxishoubing || faa-tada
-  八宝箱 || icon-xiangzi || faa-tada || hide:
-    画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
-    动画: /box/animation/ || icon-nvwumao || faa-tada
-    网址导航: /box/nav/ || icon-zhifengche || faa-tada
-  社交 || icon-shejiaoxinxi || faa-tada || hide:
-    朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
+    统计: /site/census/ || icon--tongjibiao || faa-tada
+  空间 || icon-xiangzi || faa-tada || hide:
+    说说: /space/talk/ || icon-qunliaotian || faa-tada
+    音乐: /space/music/ || icon-yinle  || faa-tada
+    清单: /space/list || icon-xiebaogao || faa-tada
     留言板: /comments/ || icon-liuyan || faa-tada
-    友人帐: /social/link/ || icon-lianjie || faa-tada
-  网站 || icon-wangye || faa-tada || hide:
-    网站统计: /site/census/ || icon--tongjibiao || faa-tada
-    文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
-    旧时光: /site/time/ || icon-xianxingshalou || faa-tada
-  个人 || icon-maoliang || faa-tada || hide:
-    唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
-    恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
-    关于: /personal/about/ || icon-paperplane || faa-tada
+  更多 || icon-more || faatada || hide:
+    随笔: /more/essays/ || icon-kanshu || faa-tada
+    相册: /more/pictures/ || icon-xiangce || faa-tada
+    我们: /more/we/ || icon-love-sign || faa-tada
+
+    # 休闲 || icon-pinweishenghuo || faa-tada || hide:
+  #   音乐: /life/music/ ||icon-yinle || faa-tada
+    # 影院: /life/movies/ ||icon-dianying1 || faa-tada
+    # 游戏: /life/games/ || icon-youxishoubing || faa-tada  cd 
+    # 画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
+    # 动画: /box/animation/ || icon-nvwumao || faa-tada
+    # 网址导航: /box/nav/ || icon-zhifengche || faa-tada
+    # 音乐: /life/music/ ||icon-yinle || faa-tada
+    # 音乐: /life/music/ ||icon-yinle || faa-tada
+  # 社交 || icon-shejiaoxinxi || faa-tada || hide:
+  #   朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
+  #   留言板: /comments/ || icon-liuyan || faa-tada
+    # 友人帐: /social/link/ || icon-lianjie || faa-tada
+  # 网站 || icon-wangye || faa-tada || hide:
+  #   网站统计: /site/census/ || icon--tongjibiao || faa-tada
+  #   文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
+  #   旧时光: /site/time/ || icon-xianxingshalou || faa-tada
+  # 个人 || icon-maoliang || faa-tada || hide:
+  #   相册: /life/music/ ||icon-yinle || faa-tada
+  #   随笔: /personal/bb/ || icon-qunliaotian || faa-tada
+  #   恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
+    # 关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -52,11 +65,11 @@ copy:
 #   icon: link || the description
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
+  # 微信: /assets/QRCode.jpg || icon-weixin || faa-tada
+  # QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
+  # B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
+  # QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
+  # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -674,8 +687,10 @@ subtitle:
 #    - "Welcome to spring-sunlight🥝のTiny Home!🤣🤣🤣"
 #    - "Hope you have a nice day!🍭🍭🍭"
 #    - "每一个不曾起舞的日子都是对生命的辜负💪💪💪"
-    - "老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。"
-    - "海纳百川，有容乃大；壁立千仞，无欲则刚。"
+    - "老当益壮，宁移白首之心；</br>穷且益坚，不坠青云之志。"
+    - "酌贪泉而觉爽，处涸辙以犹欢。"
+    - "北海虽赊，扶摇可接；</br>东隅已逝，桑榆非晚。"
+    # - "海纳百川，有容乃大；壁立千仞，无欲则刚。"
 #    - "海纳百川，有容乃大；壁立千仞，无欲则刚。"
 # Loading Animation (加載動畫)
 # preloader: false
@@ -908,6 +923,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
+    # - <link rel="stylesheet" href="/css/font.css"> # 导航栏图标css
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css"> # 引入组件库(f12)
     # 综合美化模块样式引入
     - <style id="themeColor"></style> # 主题色
@@ -930,6 +946,8 @@ inject:
     - <script async src="//at.alicdn.com/t/c/font_3586335_hsivh70x0fm.js"></script> # js图标引入1
     - <script async src="//at.alicdn.com/t/c/font_3636804_gr02jmjr3y9.js"></script> # js图标引入2
     - <script async src="//at.alicdn.com/t/c/font_3612150_kfv55xn3u2g.js"></script> # js图标引入3
+    - <script async src="//at.alicdn.com/t/c/font_4207583_fjkih0jyew.js"></script> # js图标引入3
+    
     - <script async src="https://cdn.wpon.cn/2022-sucai/Gold-ingot.js"></script>  # 新年元宝
     - <canvas id="universe"></canvas> # 星空画布
     - <canvas id="snow"></canvas> # 雪花画布
