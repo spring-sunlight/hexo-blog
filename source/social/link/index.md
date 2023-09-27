@@ -8,7 +8,7 @@ type: "link"
 {% tabs link %}
 <!-- tab 🙋 butterfly-💭candy -->
 ```yml
-    - name: spring-sunlight🥝
+    - name: spring-sunlight🌝
       link: https://www.fomal.cc/
       avatar: https://www.fomal.cc/assets/avatar.webp
       descr: Future is coming🍭🍭🍭
@@ -19,12 +19,12 @@ type: "link"
 <!-- tab 🥗Volantis -->
 ```JSON
 {
-  "title": "spring-sunlight🥝",
+  "title": "spring-sunlight🌝",
   "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
   "url": "https://www.fomal.cc/",
   "avatar": "https://www.fomal.cc/assets/avatar.webp",
   "description": "Future is coming🍭🍭🍭",
-  "keywords": "spring-sunlight🥝"
+  "keywords": "spring-sunlight🌝"
 }
 ```
 <!-- endtab -->
@@ -33,12 +33,12 @@ type: "link"
 
 | 名称       | 数值                                                         |
 | ---------- | ------------------------------------------------------------ |
-| 站点名称   | spring-sunlight🥝                                                   |
+| 站点名称   | spring-sunlight🌝                                                   |
 | 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
 | 站点链接   | https://www.fomal.cc/                                        |
 | 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
 | 站点描述   | Future is now🍭🍭🍭                         |
-| 站点关键词 | spring-sunlight🥝,个人博客,代码                                     |
+| 站点关键词 | spring-sunlight🌝,个人博客,代码                                     |
 
 <!-- endtab -->
 {% endtabs %}

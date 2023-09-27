@@ -1,4 +1,4 @@
-### 🥝的网站目前已经开源啦！！！暂定名为**hexo-theme-Fomalhaut**，原作者网站：[www.fomal.cc](https://www.fomal.cc)，如果你喜欢的话可以帮我点一个免费的Star🌟🌟🌟哦！
+### 🌝的网站目前已经开源啦！！！暂定名为**hexo-theme-Fomalhaut**，原作者网站：[www.fomal.cc](https://www.fomal.cc)，如果你喜欢的话可以帮我点一个免费的Star🌟🌟🌟哦！
 
 ### 🚧🚧🚧本开源项目并不适合纯小白，需要一定的魔改经验，因此安装之前务必对Hexo框架命令和Butterfly主题比较熟悉，不熟悉的朋友建议提前熟悉[Hexo中文文档](https://hexo.bootcss.com/docs/configuration.html)和[Butterfly主题文档](https://butterfly.js.org/)，以及熟悉本站魔改教程，别上来就问文章怎么写！！！避免各种不必要的麻烦！！！望周知！！！！！！！！！！
 
@@ -173,7 +173,7 @@
     var dnum = Math.floor(days);
   
     var ascll = [
-      `欢迎来到Fomalhaut🥝の小家!`,
+      `欢迎来到Fomalhaut🌝の小家!`,
       `Future is now 🍭🍭🍭`,
       `
           
@@ -226,7 +226,7 @@
     setTimeout(
       console.warn.bind(
         console,
-        "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Fomalhaut🥝の小家",
+        "%c ⚡ Powered by Fomalhaut🌝 %c 你正在访问Fomalhaut🌝の小家",
         "color:white; background-color:#f0ad4e",
         ""
       )
@@ -400,7 +400,7 @@
 - 网站图标为根目录的`favicon.ico`，替换为你自己的图标即可
 - 个人信息卡片的图标和菜单栏等图标，参考[博客魔改教程总结(二)](https://www.fomal.cc/posts/5389e93f.html)中的第4-7项
 - 其余配置项基本与Butterfly兼容，参考[Butterfly官方文档](https://butterfly.js.org/)即可
-- 遇到问题请多看相关文档(Hexo主题文档、Butterfly主题文档、店长的教程)和本站教程，若有其他疑问请加Q群：`691942826` 验证回答：`🥝开源项目`
+- 遇到问题请多看相关文档(Hexo主题文档、Butterfly主题文档、店长的教程)和本站教程，若有其他疑问请加Q群：`691942826` 验证回答：`🌝开源项目`
 
 
 

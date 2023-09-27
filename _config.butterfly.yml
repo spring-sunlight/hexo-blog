@@ -14,7 +14,7 @@ menu:
     音乐: /space/music/ || icon-yinle  || faa-tada
     清单: /space/list || icon-xiebaogao || faa-tada
     留言板: /comments/ || icon-liuyan || faa-tada
-  更多 || icon-more || faatada || hide:
+  更多 || icon-icon_gengduo || faatada || hide:
     随笔: /more/essays/ || icon-kanshu || faa-tada
     相册: /more/pictures/ || icon-xiangce || faa-tada
     我们: /more/we/ || icon-love-sign || faa-tada
@@ -670,7 +670,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: true
+  enable: false
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
@@ -684,7 +684,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-#    - "Welcome to spring-sunlight🥝のTiny Home!🤣🤣🤣"
+#    - "Welcome to spring-sunlight🌝のTiny Home!🤣🤣🤣"
 #    - "Hope you have a nice day!🍭🍭🍭"
 #    - "每一个不曾起舞的日子都是对生命的辜负💪💪💪"
     - "老当益壮，宁移白首之心；</br>穷且益坚，不坠青云之志。"
@@ -720,7 +720,7 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往基地
-      link: https://github.com/fomalhaut1998
+      link: https://spring-sunlight.cn
   card_announcement:
     enable: true
     content: <center><b>--- 主域名 ---<br><a href="" title="暂无" class="anno_content"><font color="#5ea6e5">暂无</font></a>&nbsp;|&nbsp;<a href="" title="暂无" class="anno_content"><font color="#5ea6e5">暂无</font></a><br>--- 备用域名 ---<br><a href="" title="暂无" class="anno_content"><font color="#5ea6e5">暂无</font></a><br><a href="" title="暂无" class="anno_content"><font color="#5ea6e5">暂无</font></a><br>--- 网站安卓APP ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">暂无</font></a>🍧</b></center>
@@ -946,7 +946,7 @@ inject:
     - <script async src="//at.alicdn.com/t/c/font_3586335_hsivh70x0fm.js"></script> # js图标引入1
     - <script async src="//at.alicdn.com/t/c/font_3636804_gr02jmjr3y9.js"></script> # js图标引入2
     - <script async src="//at.alicdn.com/t/c/font_3612150_kfv55xn3u2g.js"></script> # js图标引入3
-    - <script async src="//at.alicdn.com/t/c/font_4207583_fjkih0jyew.js"></script> # js图标引入3
+    - <script async src="//at.alicdn.com/t/c/font_4207583_wrs2yzzw6i.js"></script> # js图标引入4
     
     - <script async src="https://cdn.wpon.cn/2022-sucai/Gold-ingot.js"></script>  # 新年元宝
     - <canvas id="universe"></canvas> # 星空画布
